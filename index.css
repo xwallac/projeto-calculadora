@@ -1,0 +1,43 @@
+body {
+    font: normal 18pt Arial;
+    background-image: url(https://wallpaperaccess.com/full/2871046.jpg);
+    color: white;
+    background-size: cover ;
+}
+
+input {
+    font: normal 18pt Arial;
+    width: 100px;
+    border-radius: 10px;
+    border: white;
+    text-align: center;
+}
+
+#res, #res2, #res3, #res4{
+    margin-top: 20px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    border: white;
+    padding: 5px 80px;
+}
+
+#calc, #calc2, #calc3, #calc4{
+  justify-items: center;
+}
+
+h1 {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: white;
+    padding: 5px;
+}
+
+h5 {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 100px;
+}
